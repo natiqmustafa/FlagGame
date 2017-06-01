@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">FlagGameNew</string>
+    <string name="exit_game">Are you sure you want to exit?</string>
+    <string name="exit_game_title">Exit Game</string>
+    <string name="yes">Yes</string>
+    <string name="no">No</string>
+    <string name="score">score</string>
+    <string name="question">question</string>
+    <string name="game_level">game level</string>
+    <string name="time">time</string>
+</resources>
