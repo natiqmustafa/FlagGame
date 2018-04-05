@@ -33,6 +33,7 @@ public class CountryData {
     }
 
     private void connectDb() {
+        // comment
         dbHelper = new DbHelper(this.context);
         try {
             dbHelper.createDataBase();
